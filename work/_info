@@ -1,0 +1,105 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/An/Desktop/HW4/model_HW4
+vhard_block
+!s110 1716708197
+!i10b 1
+!s100 RfaXYG_PSk;PA6l_dhaR>3
+Z0 !s11b Dg1SIo80bB@j0V0VzS_@n1
+ITeI038H;1VA0DJ0U`n7UR1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/An/Desktop/model
+w1716706105
+8C:/Users/An/Desktop/model/MPQ.vo
+FC:/Users/An/Desktop/model/MPQ.vo
+!i122 101
+L0 34402 34
+Z3 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1716708197.000000
+!s107 C:/Users/An/Desktop/model/MPQ.vo|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/An/Desktop/model/MPQ.vo|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+vMPQ
+!s110 1716708860
+!i10b 1
+!s100 STKP7az@`A1ETaU>bW];I2
+R0
+IfGXI^BHMT>hQFjCjn6H;P1
+R1
+R2
+w1716708735
+8C:/Users/An/Desktop/model/MPQ.v
+FC:/Users/An/Desktop/model/MPQ.v
+!i122 114
+L0 1 181
+R3
+r1
+!s85 0
+31
+!s108 1716708859.000000
+!s107 C:/Users/An/Desktop/model/MPQ.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/An/Desktop/model/MPQ.v|
+!i113 1
+R4
+R5
+n@m@p@q
+vRAM
+Z6 !s110 1716709017
+!i10b 1
+!s100 :Ma2ob_l9:9M^Ij2]hL8Q2
+R0
+I7i@@m`0bEz`h0B9KH=?nD2
+R1
+R2
+Z7 w1716708189
+Z8 8testfixture.v
+Z9 Ftestfixture.v
+!i122 119
+L0 229 17
+R3
+r1
+!s85 0
+31
+Z10 !s108 1716709017.000000
+!s107 testfixture.v|
+Z11 !s90 -reportprogress|300|testfixture.v|+define+P3|
+!i113 1
+Z12 !s92 +define+P3
+R5
+n@r@a@m
+vtest
+R6
+!i10b 1
+!s100 ?`BZeD;FzDR<Y3D7QOCdC2
+R0
+IX6W[:j?BQ`LCV1b2zb?[B2
+R1
+R2
+R7
+R8
+R9
+!i122 119
+L0 49 177
+R3
+r1
+!s85 0
+31
+R10
+Z13 !s107 testfixture.v|
+R11
+!i113 1
+R12
+R5

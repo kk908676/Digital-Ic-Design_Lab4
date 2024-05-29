@@ -1,0 +1,7 @@
+
+State Machine - |MPQ|state
+Name state.illegal state.output_value state.multiply state.set_value 
+state.set_value 0 0 0 0 
+state.multiply 0 0 1 1 
+state.output_value 0 1 0 1 
+state.illegal 1 0 0 1 
